@@ -72,12 +72,12 @@ p, h1, li, a {
 
 .titleBar_img:hover {
     transition: 0.1s;
-    background-color: red;
+    background-color: #141414;
 }
 
 .titleBar_img:active {
     transition: 0.1s;
-    background-color: rgb(155, 0, 0);
+    background-color: red;
 }
 
 .titleBar_ButtonGroup:hover {
